@@ -13,7 +13,7 @@ This microservice allows the management of the 'Action' resource.
 
 ### Endpoints
 
-#### [GET] /characters
+#### [GET] /actions
 
 	This endpoint retrieves all the available actions.
 	
