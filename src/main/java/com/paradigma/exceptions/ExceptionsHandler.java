@@ -1,4 +1,4 @@
-package com.paradigma.web;
+package com.paradigma.exceptions;
 
 import org.springframework.dao.DataAccessResourceFailureException;
 import org.springframework.http.HttpStatus;
